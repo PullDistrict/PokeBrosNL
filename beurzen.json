@@ -1,0 +1,10 @@
+{
+  "_uitleg": "Voeg hier beurzen toe. Datum altijd als JJJJ-MM-DD. Status is 'bevestigd' of 'voorbehoud'. Beurzen die voorbij zijn verdwijnen automatisch van de site, verwijderen hoeft niet. Lege velden worden gewoon overgeslagen.",
+  "beurzen": [
+    {"naam": "Placeholder beurs 1", "plaats": "Plaats 1", "locatie": "", "datum": "2026-12-12", "tijd": "10:00 tot 16:00", "stand": "", "status": "bevestigd", "url": ""},
+    {"naam": "Placeholder beurs 2", "plaats": "Plaats 2", "locatie": "", "datum": "2027-01-16", "tijd": "10:00 tot 16:00", "stand": "", "status": "bevestigd", "url": ""},
+    {"naam": "Placeholder beurs 3", "plaats": "Plaats 3", "locatie": "", "datum": "2027-02-13", "tijd": "", "stand": "2 tafels", "status": "bevestigd", "url": ""},
+    {"naam": "Placeholder beurs 4", "plaats": "Plaats 4", "locatie": "", "datum": "2027-03-20", "tijd": "", "stand": "", "status": "voorbehoud", "url": ""},
+    {"naam": "Placeholder beurs 5", "plaats": "Plaats 5", "locatie": "", "datum": "2027-04-17", "tijd": "", "stand": "", "status": "voorbehoud", "url": ""}
+  ]
+}
